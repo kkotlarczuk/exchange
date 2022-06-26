@@ -2,6 +2,6 @@ Wymiana danych
 
 Które dane możemy wymienić?
 
-[ ] Dane osobowe
+[x] Dane osobowe
 [ ] Dane kontaktowe
 [ ] Dane adresowe
